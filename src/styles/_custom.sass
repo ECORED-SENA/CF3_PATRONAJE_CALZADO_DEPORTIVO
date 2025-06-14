@@ -2,31 +2,145 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
+    top: 12%
     right: 10%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+    z-index: 3
 
 @keyframes float1
   0%
-    transform: translateY(20px)
+    transform: translatex(20px)
   100%
-    transform: translateY(0px)
-  
+    transform: translatex(0px)
+
 .banner-principal .tarjeta
   background-position: left 50% !important
 
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  width: 400px !important
 
-.titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
 
 .banner-interno__titulo__icono i
   color: $color-primario
 
 figcaption
   font-weight: normal
+
+.banner-interno__fondo
+  background-image: url('../assets/curso/portada/fondo-interno.png') !important
+
+//CLASES TITULOS//
+.titulo-con-imagen
+  display: flex
+  align-items: center
+  position: relative
+.titulo-con-imagen__fondo
+  background-color: #E0EE33
+  border-radius: 30px
+  padding: 10px 20px
+  display: inline-flex
+  align-items: center
+.titulo-con-imagen__imagen
+  position: absolute
+  left: 14px
+  width: 60px
+.titulo-con-imagen__texto
+  margin: 0
+  padding-left: 64px
+
+.bg-color
+  &-1
+    background-color: #ADEEEE
+  &-2
+    background-color: #F7DCAC
+  &-3
+    background-color: #FCF1DE
+  &-4
+    background-color: #F2F8AC
+  &-5
+    background: linear-gradient(180deg,rgba(255, 255, 255, 1) 0%, rgba(234, 251, 251, 1) 20%, rgba(234, 251, 251, 1) 80%, rgba(255, 255, 255, 1) 100%)
+  &-6
+    color: #CB98F5 !important
+  &-7
+    background-color: #EAFBFB
+  &-8
+    background-color: #EAD5FA
+  &-9
+    background-color: #ADEEEE
+  &-10
+    background-color: #CB98F5
+  &-11
+    background-color: #F8FBD5
+  &-12
+    background-color: #F9F4FD
+  &-13
+    background: linear-gradient(180deg,rgba(255, 255, 255, 1) 0%, rgba(252, 241, 222, 1) 20%, rgba(252, 241, 222, 1) 80%, rgba(255, 255, 255, 1) 100%)
+  &-14
+    background: linear-gradient(180deg,rgba(255, 255, 255, 1) 0%, rgba(244, 234, 252, 1) 20%, rgba(244, 234, 252, 1) 80%, rgba(244, 234, 252, 1) 100%)
+  &-15
+    background-color: #644B79
+  &-16
+    background-color: #F4EAFC
+  &-17
+    background-color: #FBFDE9
+  &-18
+    background-color: #D6F7F7
+  &-white
+    background-color: #fff
+
+// Full Width Background
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+.bg-full-width-2
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+
+.shadow-app
+  background-color: #ffffff
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1)
+  padding: 20px
+  border-radius: 8px
+
+.bg-fondo
+  &-1
+    background-image: url("../assets/curso/bg1.svg") !important
+    background-position: bottom
+  &-2
+    background-image: url("../assets/curso/bg2.svg") !important
+    background-position: bottom
+  &-3
+    background-image: url("../assets/curso/bg3.svg") !important
+    background-position: bottom
+  &-slider
+    background-image: url("../assets/curso/bg-slider.png") !important
+    background-position: bottom
+
+.tabs-b.color-acento-contenido .tabs-b__tab--active, .tabs-b__content-item, .tabs-c__content-item
+  background-color: #FEFBF6
+.tabs-b__tab
+  background-color: #FCF1DE
+
+/////////////ACORDION/////////////
+.acordion__accion__btn--a
+  background-color: #FF8E00 !important
+.acordion__activo
+  background-color: #F4EAFC !important
+.acordion__activo
+  .acordion__titulo 
+    h3
+      color: $color-sistema-texto !important
+
+.bloque-texto-a.color-secundario:before
+  background-color: #FCF1DE
+.bloque-texto-a.color-secundario
+  background-color: #E0EE33
