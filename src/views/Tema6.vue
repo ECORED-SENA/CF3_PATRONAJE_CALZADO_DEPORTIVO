@@ -231,7 +231,7 @@
                 h5 Figura 66.
                 span Forro talón
               figure
-                img(src="@/assets/curso/temas/tema6/20.png", alt="Molde alineado a partir del patrón del talón, extendido hasta la línea de montaje con aumentos para asegurar empalme preciso con la capellada interna.  ")
+                img(src="@/assets/curso/temas/tema6/21.png", alt="Molde alineado a partir del patrón del talón, extendido hasta la línea de montaje con aumentos para asegurar empalme preciso con la capellada interna.  ")
             .col-lg-6.order-lg-1
               h5 Forro talón
               p El procedimiento se realiza de manera similar al modelo anterior, con la diferencia de que en este caso se extiende la línea de la cordonera hasta alcanzar la línea de montaje. 
@@ -241,7 +241,7 @@
                 h5 Figura 67.
                 span Forro lengüeta
               figure
-                img(src="@/assets/curso/temas/tema6/20.png", alt="Molde del forro con los mismos contornos que la lengüeta externa, incorporando 4 mm de aumento en todo el borde para costura y montaje. ")
+                img(src="@/assets/curso/temas/tema6/22.png", alt="Molde del forro con los mismos contornos que la lengüeta externa, incorporando 4 mm de aumento en todo el borde para costura y montaje. ")
             .col-lg-6.order-lg-1
               h5 Forro lengüeta
               p El procedimiento se realiza de manera similar al modelo anterior.
@@ -251,7 +251,7 @@
                 h5 Figura 68.
                 span Moldes abullonado
               figure
-                img(src="@/assets/curso/temas/tema6/20.png", alt="Conjunto de moldes para las espumas del cuello y la lengüeta, elaborados con la misma técnica del modelo Court, ajustados a la estructura Royal.  ")
+                img(src="@/assets/curso/temas/tema6/23.png", alt="Conjunto de moldes para las espumas del cuello y la lengüeta, elaborados con la misma técnica del modelo Court, ajustados a la estructura Royal.  ")
             .col-lg-6.order-lg-1
               h5 Moldes de abullonado Deportivo tipo Royal
               p Se elaboran de la misma forma que el modelo anterior. 
