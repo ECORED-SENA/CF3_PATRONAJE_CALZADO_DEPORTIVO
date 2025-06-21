@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Elaboración y comprobación de los moldes para calzado deportivo.',
+    Name: 'Técnicas de Patronaje para Calzado Deportivo',
     Description:
       'Este componente formativo enseña a elaborar y comprobar moldes para calzado deportivo mediante técnicas manuales y diseño técnico. Incluye el enmascarado de la horma, trazado de líneas guía, creación de la camisa, desarrollo del molde patrón, análisis de modelos deportivos y sus variaciones, así como los tipos y funciones de moldes utilizados en su fabricación.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
