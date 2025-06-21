@@ -88,7 +88,7 @@
           img(src="@/assets/curso/temas/tema8/7.png", data-aos="zoom-in")
       .col-lg-9
         .bg-color-8.h-100.p-5.tarjeta(data-aos="fade-left")
-          p.mb-0.mt-4 El uso de maquetas es una práctica clave en el diseño de calzado, ya que permite detectar oportunamente fallas estructurales o estéticas. Gracias a este paso, se garantiza que el producto final no solo cumpla con las condiciones de funcionalidad y comodidad, sino que también conserve una composición visual equilibrada
+          p.mb-0.mt-4 El uso de maquetas es una práctica clave en el diseño de calzado, ya que permite detectar oportunamente fallas estructurales o estéticas. Gracias a este paso, se garantiza que el producto final no solo cumpla con las condiciones de funcionalidad y comodidad, sino que también conserve una composición visual equilibrada.
           
          
 

@@ -99,7 +99,7 @@
         figure
           img(src="@/assets/curso/temas/tema6/9.png", data-aos="zoom-in")
       .col-lg-7.order-1.mb-3.mb-lg-0
-        p(data-aos="fade-left") Para iniciar la construcción de la bigotera, se traza una línea paralela 10 mm debajo de la línea de profundidad, luego se marca un punto a 60 mm sobre la línea de profundidad. Desde ese punto, se traza una línea perpendicular que se une con la línea paralela a 10 mm. A continuación, se localiza un punto a 15 mm por debajo de la línea paralela obtenida anteriormente sobre la línea de talón y desde allí se traza una línea horizontal de 20 mm hacia el interior. Posteriormente, se marca otro punto a 25 mm sobre la línea paralela a la de profundidad, partiendo desde la línea del talón, y se une con la línea previamente trazada de 20 mm.
+        p(data-aos="fade-left") Para iniciar la construcción de la bigotera, se traza una línea paralela 10 mm debajo de la línea de profundidad; luego se marca un punto a 60 mm sobre la línea de profundidad. Desde ese punto, se traza una línea perpendicular que se une con la línea paralela a 10 mm. A continuación, se localiza un punto a 15 mm por debajo de la línea paralela obtenida anteriormente sobre la línea de talón y desde allí se traza una línea horizontal de 20 mm hacia el interior. Posteriormente, se marca otro punto a 25 mm sobre la línea paralela a la de profundidad, partiendo desde la línea del talón, y se une con la línea previamente trazada de 20 mm.
         p Finalmente, se conectan todos estos puntos mediante líneas curvas suaves, siguiendo las guías visuales indicadas en el diseño, para formar el contorno característico de la bigotera.
 
     .row.justify-content-center.mb-3
@@ -253,7 +253,7 @@
               figure
                 img(src="@/assets/curso/temas/tema6/23.png", alt="Conjunto de moldes para las espumas del cuello y la lengüeta, elaborados con la misma técnica del modelo Court, ajustados a la estructura Royal.  ")
             .col-lg-6.order-lg-1
-              h5 Moldes de abullonado Deportivo tipo Royal
+              h5 Moldes de abullonado deportivo tipo Royal
               p Se elaboran de la misma forma que el modelo anterior. 
 
 

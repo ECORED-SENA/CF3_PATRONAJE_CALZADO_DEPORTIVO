@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Elaborar moldes para el modelo deportivo tipo court
+      h1 Elaborar moldes para el modelo deportivo tipo <em>Court</em>
     
     .bloque-texto-a.color-secundario.p-4.p-md-5
       .row.m-0.align-items-center.justify-content-between
@@ -14,12 +14,12 @@
             img(src="@/assets/curso/temas/tema5/1.png", data-aos="zoom-in") 
         .col-lg-9
           .bloque-texto-a__texto.p-4
-            p El patronaje del calzado deportivo modelo court constituye el punto de partida fundamental en la confección de un zapato clásico y versátil, caracterizado por una silueta limpia y un corte bajo que envuelve el pie con elegancia.
+            p El patronaje del calzado deportivo modelo <em>Court</em> constituye el punto de partida fundamental en la confección de un zapato clásico y versátil, caracterizado por una silueta limpia y un corte bajo que envuelve el pie con elegancia.
     
     separador
 
     #t_5_1.titulo-segundo.color-acento-contenido
-      h2 5.1 Elaborar molde patrón para el modelo deportivo tipo court
+      h2 5.1 Elaborar molde patrón para el modelo deportivo tipo <em>Court</em>
     
     p.mb-5 Para la construcción del molde patrón, se emplea la máscara compensada previamente realizada, utilizando los puntos y líneas guía correspondientes. El modelaje inicia con el ajuste de dicha máscara, siguiendo los pasos detallados a continuación:
 
@@ -43,7 +43,7 @@
                 p.mb-0 Trazar una línea a 3 mm de la línea de talón y otra a 15 mm de la línea de profundidad.
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-6
-                p.mb-0 Identificar el punto medio en la altura del talón y marca 5 mm hacia arriba desde dicho punto.
+                p.mb-0 Identificar el punto medio en la altura del talón y marcar 5 mm hacia arriba desde dicho punto.
             .row.justify-content-center
               .col-lg-6
                 .titulo-sexto.color-acento-contenido
@@ -235,7 +235,7 @@
     separador
 
     #t_5_2.titulo-segundo.color-acento-contenido
-      h2 5.2 Despiece de moldes para el modelo deportivo tipo court
+      h2 5.2 Despiece de moldes para el modelo deportivo tipo <em>Court</em>
     
     p.mb-5 En esta fase, el molde patrón se separa en las piezas individuales que permitirán su posterior corte y ensamblaje.
 
@@ -382,9 +382,9 @@
     separador
 
     #t_5_3.titulo-segundo.color-acento-contenido
-      h2 5.3 Moldes del forro para el modelo deportivo tipo Court
+      h2 5.3 Moldes del forro para el modelo deportivo tipo <em>Court</em>
     
-    p.mb-5 A continuación, se describen los procedimientos para obtener los moldes del forro correspondientes a la lengüeta, la capellada y el talón en el modelo deportivo tipo Court:
+    p.mb-5 A continuación, se describen los procedimientos para obtener los moldes del forro correspondientes a la lengüeta, la capellada y el talón en el modelo deportivo tipo <em>Court</em>:
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -436,16 +436,16 @@
         separador
 
         #t_5_4.titulo-segundo.color-acento-contenido
-          h2 5.4 Moldes de abullonado para el modelo deportivo tipo Court
+          h2 5.4 Moldes de abullonado para el modelo deportivo tipo <em>Court</em>
     
-    p Esta sección detalla el procedimiento para obtener los moldes del abullonado del cuello y de la lengüeta en calzado deportivo tipo Court.
+    p Esta sección detalla el procedimiento para obtener los moldes del abullonado del cuello y de la lengüeta en calzado deportivo tipo <em>Court</em>.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Molde del abullonado del cuello
     
-    p.mb-5 ara obtener este molde, se deben seguir los siguientes pasos:
+    p.mb-5 Para obtener este molde, se deben seguir los siguientes pasos:
 
     .row.mb-5.justify-content-center
       .col-lg-3.mb-3.mb-lg-0
@@ -495,7 +495,7 @@
               .col-lg-auto
                 img(src="@/assets/curso/temas/tema5/35.svg", style="max-width: 90px").mx-auto
               .col-lg
-                p.mb-0 Este modelo comparte similitudes con el tipo Court; sin embargo, su principal diferencia radica en que la capellada está seccionada en la zona de la puntera. Además, el diseño del talón puede variar según requerimientos estéticos y funcionales.
+                p.mb-0 Este modelo comparte similitudes con el tipo <em>Court</em>; sin embargo, su principal diferencia radica en que la capellada está seccionada en la zona de la puntera. Además, el diseño del talón puede variar según requerimientos estéticos y funcionales.
       
 </template>
 

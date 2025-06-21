@@ -55,7 +55,7 @@
                     img(src="@/assets/curso/temas/tema1/3.png", data-aos="zoom-in")
                 .col-lg-5.order-1.mb-3.mb-lg-0
                   img.mb-3(src="@/assets/curso/temas/tema1/4.svg", style="max-width: 90px")
-                  p.mb-0 Se obtienen colocando el borde de la horma por la línea de plantilla sobre una superficie recta de forma perpendicular de tal manera que la parte posterior de la horma toque esta superficie el otro punto de contacto sobre la superficie o punto tangencial será nuestro punto metatarsiano, esto se realiza en las dos caras de la horma como lo indica la siguiente imagen.
+                  p.mb-0 Se obtienen colocando el borde de la horma por la línea de plantilla sobre una superficie recta de forma perpendicular, de tal manera que la parte posterior de la horma toque esta superficie. El otro punto de contacto sobre la superficie o punto tangencial será nuestro punto metatarsiano; esto se realiza en las dos caras de la horma, como lo indica la siguiente imagen.
 
         .row.justify-content-center.mb-5
           .col-lg-5.mb-3.mb-lg-0
@@ -166,10 +166,10 @@
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-6
-                p.mb-0 •	Horma N.º 40 + 30 mm = 70 mm
+                p.mb-0 Horma N.º 40 + 30 mm = 70 mm
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-6
-                p.mb-0 •	Horma N.º 40 + 28 mm = 68 mm
+                p.mb-0 Horma N.º 40 + 28 mm = 68 mm
             p Este procedimiento se representa en la siguiente imagen.
           .col-md-5
             .titulo-sexto.color-acento-contenido

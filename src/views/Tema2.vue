@@ -20,7 +20,7 @@
                 figure
                   img(src="@/assets/curso/temas/tema2/1.png", alt="Imagen de la máscara obtenida mediante el enmascarado completo de ambas caras de la horma, utilizada para capturar la forma y proporciones del modelo deportivo. ") 
           div(titulo="Paso 2")
-            p.mb-5 Una vez se han obtenido ambas máscaras, estas se superponen procurando que coincidan la altura del talón y la línea de profundidad, lo que permite asegurar la simetría y precisión del molde.   
+            p.mb-5 Una vez que se han obtenido ambas máscaras, estas se superponen procurando que coincidan la altura del talón y la línea de profundidad, lo que permite asegurar la simetría y precisión del molde.   
             .row.justify-content-center
               .col-lg-6
                 .titulo-sexto.color-acento-contenido
@@ -113,7 +113,7 @@
                 figure
                   img(src="@/assets/curso/temas/tema2/9.png", alt="Imagen de la camisa ya ajustada extendida sobre una superficie, mostrando el perfil plano obtenido que servirá como base para el trazado del molde patrón.  ") 
     
-        p.mb-5 Una vez compensada la máscara la dibujamos sobre una cartulina con los puntos y líneas guía, como se muestra en la imagen.
+        p.mb-5 Una vez compensada la máscara, la dibujamos sobre una cartulina con los puntos y líneas guía, como se muestra en la imagen.
 
         .row.justify-content-center.align-items-center
           .col-lg-10

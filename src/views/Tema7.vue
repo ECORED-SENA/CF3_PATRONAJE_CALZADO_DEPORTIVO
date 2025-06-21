@@ -151,7 +151,7 @@
           .col-lg-auto
             img(src="@/assets/curso/temas/tema7/12.svg", style="max-width: 90px").mx-auto
           .col-lg.text-white
-            p.mb-0 <b>Nota</b>: Es fundamental escuadrar correctamente el molde en la zona de unión entre la cara externa e interna, ya que esto permite obtener una mejor forma y continuidad en el diseño, asegurando un ajuste preciso y estético en la pieza final.
+            p.mb-0 <b>Nota</b>: es fundamental escuadrar correctamente el molde en la zona de unión entre la cara externa e interna, ya que esto permite obtener una mejor forma y continuidad en el diseño, asegurando un ajuste preciso y estético en la pieza final.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -263,7 +263,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Construcción lengüeta
     
-    p.mb-5 Para iniciar la construcción de la lengüeta, se posiciona el molde patrón en la cartulina, tal como si se fuera a trazar la cordonera. A continuación, se marca la línea externa de la cordonera hasta el punto donde finaliza la curva, sirviendo esta como base para definir el contorno inicial de la lengüeta. Luego, utilizando como apoyo el punto donde finaliza la curva previamente marcada, se gira el molde patrón hasta alinear la línea de empeine con el eje central trazado en la cartulina. A continuación, desde el borde superior de la cordonera se marca una ventaja de 15 mm hacia arriba sobre el eje de empeine. En ese punto, se escuadra y se traza una línea horizontal de 55 mm. Esta línea se conecta con la curva inferior previamente marcada de la cordonera. Finalmente, se redondea la parte superior con una curva suave para eliminar el ángulo, se suaviza la curva inferior y se une con la línea recta. Posteriormente, se da una ventaja de 4 mm para cosido y vuelto, iniciando desde la parte superior de la lengüeta hasta la mitad de su lateral. Por último, se realiza la simetría.
+    p.mb-5 Para iniciar la construcción de la lengüeta, se posiciona el molde patrón en la cartulina, tal como si se fuera a trazar la cordonera. A continuación, se marca la línea externa de la cordonera hasta el punto donde finaliza la curva, sirviendo esta como base para definir el contorno inicial de la lengüeta. Luego, utilizando como apoyo el punto donde finaliza la curva previamente marcada, se gira el molde patrón hasta alinear la línea de empeine con el eje central trazado en la cartulina. A continuación, desde el borde superior de la cordonera, se marca una ventaja de 15 mm hacia arriba sobre el eje de empeine. En ese punto, se escuadra y se traza una línea horizontal de 55 mm. Esta línea se conecta con la curva inferior previamente marcada de la cordonera. Finalmente, se redondea la parte superior con una curva suave para eliminar el ángulo, se suaviza la curva inferior y se une con la línea recta. Posteriormente, se da una ventaja de 4 mm para cosido y vuelto, iniciando desde la parte superior de la lengüeta hasta la mitad de su lateral. Por último, se realiza la simetría.
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 81.

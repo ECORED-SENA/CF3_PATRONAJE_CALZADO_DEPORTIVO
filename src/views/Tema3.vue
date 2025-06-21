@@ -105,7 +105,7 @@
               .col-lg-8
                 div.bg-color-8.p-5.tarjeta(data-aos="fade-left")
                   img.mb-3.d-none.d-lg-flex(src="@/assets/curso/temas/tema3/13.svg", style="max-width: 90px")
-                  p.mb-0 En las décadas de 1960 y 1970, marcas como Adidas introdujeron modelos como las <b>Stan Smith</b>, fabricadas en cuero blanco, que mejoraron tanto en durabilidad como en estética. Con el paso del tiempo, este tipo de zapatilla trascendió su uso deportivo para convertirse en un <b>ícono de la moda urbana</b>, manteniendo su diseño sobrio y minimalista.
+                  p.mb-0 En las décadas de 1960 y 1970, marcas como Adidas introdujeron modelos como las <b><em>Stan Smith</em></b>, fabricadas en cuero blanco, que mejoraron tanto en durabilidad como en estética. Con el paso del tiempo, este tipo de zapatilla trascendió su uso deportivo para convertirse en un <b>ícono de la moda urbana</b>, manteniendo su diseño sobrio y minimalista.
         
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo

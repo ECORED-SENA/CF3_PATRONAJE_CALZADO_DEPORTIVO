@@ -70,27 +70,31 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Elaborar moldes para el modelo deportivo tipo court',
+        titulo: 'Elaborar moldes para el modelo deportivo tipo <em>Court</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '5.1',
-            titulo: 'Elaborar molde patrón para el modelo deportivo tipo court',
+            titulo:
+              'Elaborar molde patrón para el modelo deportivo tipo <em>Court</em>',
             hash: 't_5_1',
           },
           {
             numero: '5.2',
-            titulo: 'Despiece de moldes para el modelo deportivo tipo court',
+            titulo:
+              'Despiece de moldes para el modelo deportivo tipo <em>Court</em>',
             hash: 't_5_2',
           },
           {
             numero: '5.3',
-            titulo: 'Moldes del forro para el modelo deportivo tipo Court',
+            titulo:
+              'Moldes del forro para el modelo deportivo tipo <em>Court</em>',
             hash: 't_5_3',
           },
           {
             numero: '5.4',
-            titulo: 'Moldes de abullonado para el modelo deportivo tipo Court',
+            titulo:
+              'Moldes de abullonado para el modelo deportivo tipo <em>Court</em>',
             hash: 't_5_4',
           },
         ],
