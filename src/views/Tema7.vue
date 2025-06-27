@@ -5,19 +5,19 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 7
-      h1 Elaborar moldes para el modelo deportivo tipo Running
+      h1 Elaborar moldes para el modelo deportivo tipo <em>Running</em>
     
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema7/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Este modelo presenta variaciones importantes respecto a los anteriores, especialmente en el diseño de la cordonera, que adopta una forma en “U” para ofrecer un mejor ajuste al empeine. Se mantiene la estructura de la puntera utilizada en el modelo anterior, mientras que el talón se rediseña con una forma curva para mejorar la ergonomía y el soporte en la zona posterior del pie. La bigotera también sufre una ligera modificación en su trazo, adaptándose al nuevo estilo del modelo. Además, el calzado tipo Running se caracteriza por incorporar líneas más dinámicas y piezas que brindan mayor soporte y flexibilidad.
+        p.mb-0 Este modelo presenta variaciones importantes respecto a los anteriores, especialmente en el diseño de la cordonera, que adopta una forma en “U” para ofrecer un mejor ajuste al empeine. Se mantiene la estructura de la puntera utilizada en el modelo anterior, mientras que el talón se rediseña con una forma curva para mejorar la ergonomía y el soporte en la zona posterior del pie. La bigotera también sufre una ligera modificación en su trazo, adaptándose al nuevo estilo del modelo. Además, el calzado tipo <em>Running</em> se caracteriza por incorporar líneas más dinámicas y piezas que brindan mayor soporte y flexibilidad.
     
     separador
 
     #t_7_1.titulo-segundo.color-acento-contenido
-      h2 7.1 Elaborar molde patrón para el modelo tipo Running
+      h2 7.1 Elaborar molde patrón para el modelo tipo <em>Running</em>
     
     p.mb-5 Para el desarrollo de este molde se toma la máscara ajustada y con los aumentos de montaje.
 
@@ -26,7 +26,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Construcción boca y cordonera
     
-    p.mb-5 A continuación, se presenta la secuencia detallada para la construcción de la cordonera y la boca del calzado deportivo tipo Running. 
+    p.mb-5 A continuación, se presenta la secuencia detallada para la construcción de la cordonera y la boca del calzado deportivo tipo <em>Running</em>. 
 
     .row.align-items-start.mb-5
       .col-lg-6.mb-3.mb-lg-0.order-2
@@ -123,7 +123,7 @@
     .bg-full-width-2.bg-fondo-1.mb-3
       .p-4.p-md-5
         #t_7_2.titulo-segundo.color-acento-contenido
-          h2 7.2 Despiece de moldes para el modelo tipo Running
+          h2 7.2 Despiece de moldes para el modelo tipo <em>Running</em>
         
         p.mb-5 A continuación, se detalla el procedimiento para el despiece de cada una de las piezas de este modelo.
 
@@ -274,9 +274,9 @@
     separador
 
     #t_7_3.titulo-segundo.color-acento-contenido
-      h2 7.3 Moldes forro para el modelo tipo Running
+      h2 7.3 Moldes forro para el modelo tipo <em>Running</em>
     
-    p.mb-5 A continuación, se procederá a desarrollar los moldes internos o de forro correspondientes al modelo deportivo tipo Running, los cuales deben ajustarse con precisión a las piezas externas para garantizar un buen armado, confort y funcionalidad del calzado.
+    p.mb-5 A continuación, se procederá a desarrollar los moldes internos o de forro correspondientes al modelo deportivo tipo <em>Running</em>, los cuales deben ajustarse con precisión a las piezas externas para garantizar un buen armado, confort y funcionalidad del calzado.
 
     .bg-full-width.bg-fondo-slider.mb-5.tarjeta
       .p-4.p-md-5
@@ -317,7 +317,7 @@
     separador
 
     #t_7_4.titulo-segundo.color-acento-contenido
-      h2 7.4 Moldes de abullonado deportivo tipo Running
+      h2 7.4 Moldes de abullonado deportivo tipo <em>Running</em>
     
     p.mb-5 En esta sección se describe el procedimiento para elaborar los moldes de espuma (abullonado) correspondientes al cuello y a la lengüeta, fundamentales para aportar comodidad y estructura al calzado.
 

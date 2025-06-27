@@ -125,27 +125,29 @@ export default {
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: 'Elaborar moldes para el modelo deportivo tipo Running',
+        titulo:
+          'Elaborar moldes para el modelo deportivo tipo <em>Running</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '7.1',
-            titulo: 'Elaborar molde patrón para el modelo tipo Running',
+            titulo:
+              'Elaborar molde patrón para el modelo tipo <em>Running</em>',
             hash: 't_7_1',
           },
           {
             numero: '7.2',
-            titulo: 'Despiece de moldes para el modelo tipo Running',
+            titulo: 'Despiece de moldes para el modelo tipo <em>Running</em>',
             hash: 't_7_2',
           },
           {
             numero: '7.3',
-            titulo: 'Moldes forro para el modelo tipo Running',
+            titulo: 'Moldes forro para el modelo tipo <em>Running</em>',
             hash: 't_7_3',
           },
           {
             numero: '7.4',
-            titulo: 'Moldes de abullonado deportivo tipo Running',
+            titulo: 'Moldes de abullonado deportivo tipo <em>Running</em>',
             hash: 't_7_4',
           },
         ],

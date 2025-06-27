@@ -66,7 +66,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ciVVqCBInEw?si=3-h-98hTFkikHqcv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-5 Cada una de estas categorías continúa evolucionando mediante la integración de tecnologías innovadoras, el uso de materiales sostenibles y un enfoque en el diseño personalizado, buscando optimizar tanto el rendimiento como la estética.
     
@@ -87,7 +87,7 @@
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-        h3.titulo-con-imagen__texto Zapatillas deportivas tipo Court
+        h3.titulo-con-imagen__texto Zapatillas deportivas tipo<em>Court</em>
     
     .bg-full-width-2.bg-fondo-3.mb-3
       .px-4.px-md-5.py-4
@@ -124,14 +124,14 @@
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-            h3.titulo-con-imagen__texto Zapatillas deportivas tipo Running
+            h3.titulo-con-imagen__texto Zapatillas deportivas tipo <em>Running</em>
         
         .row.mb-5.align-items-center
           .col-lg-3.order-2
             figure
               img(src="@/assets/curso/temas/tema3/12.png", data-aos="zoom-in")
           .col-lg-9.order-1.mb-3.mb-lg-0
-            p.mb-5 Las zapatillas de running han evolucionado notablemente desde finales del siglo XIX. Los primeros modelos eran básicos y ligeros, con poca protección. Fue en las décadas de 1960 y 1970 cuando el running se popularizó como actividad recreativa, impulsando a marcas como <b>Nike y Adidas</b> a desarrollar tecnologías como la <b>amortiguación de aire</b> y suelas más ergonómicas.
+            p.mb-5 Las zapatillas de <em>running</em> han evolucionado notablemente desde finales del siglo XIX. Los primeros modelos eran básicos y ligeros, con poca protección. Fue en las décadas de 1960 y 1970 cuando el <em>running</em> se popularizó como actividad recreativa, impulsando a marcas como <b>Nike y Adidas</b> a desarrollar tecnologías como la <b>amortiguación de aire</b> y suelas más ergonómicas.
             .bg-color-4.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
                 .col-lg-auto.mb-3.mb-lg-0
@@ -139,7 +139,7 @@
                     img(src='@/assets/curso/temas/tema3/11.png', alt='')
                 .col-lg
                   .p-4
-                    p.mb-0(data-aos="fade-up") El <b>Nike Cortez (1972)</b> fue uno de los pioneros. En los años 80 y 90 se introdujeron sistemas avanzados como <b>Nike Air y Asics GEL</b>, y se empezó a diferenciar el calzado según el tipo de pisada. Hoy en día, las zapatillas de running integran materiales ultraligeros, espumas de alto retorno de energía (Boost, ZoomX), suelas de carbono y diseños específicos para diferentes terrenos.
+                    p.mb-0(data-aos="fade-up") El <b>Nike Cortez (1972)</b> fue uno de los pioneros. En los años 80 y 90 se introdujeron sistemas avanzados como <b>Nike <em>Air</em> y Asics <em>GEL</em></b>, y se empezó a diferenciar el calzado según el tipo de pisada. Hoy en día, las zapatillas de <em>running</em> integran materiales ultraligeros, espumas de alto retorno de energía (<em>Boost, ZoomX</em>), suelas de carbono y diseños específicos para diferentes terrenos.
 
 
 </template>

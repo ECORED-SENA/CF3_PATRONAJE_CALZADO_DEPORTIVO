@@ -22,8 +22,8 @@ export default {
       introduccion:
         'Identificar los conceptos clave relacionados con la elaboración de moldes patrón, el diseño técnico y la tipología del calzado deportivo, aplicados al proceso de patronaje.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
@@ -301,7 +301,8 @@ export default {
         },
         {
           id: 10,
-          texto: '¿Cuál es una característica clave del calzado tipo Court?',
+          texto:
+            '¿Cuál es una característica clave del calzado tipo <em>Court</em>?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -317,7 +318,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Uso exclusivo en running.',
+              texto: 'Uso exclusivo en <em>running</em>.',
               esCorrecta: false,
             },
             {
@@ -352,7 +353,8 @@ export default {
         },
         {
           id: 12,
-          texto: 'Las zapatillas tipo Running surgieron en los años 2000.',
+          texto:
+            'Las zapatillas tipo <em>Running</em> surgieron en los años 2000.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

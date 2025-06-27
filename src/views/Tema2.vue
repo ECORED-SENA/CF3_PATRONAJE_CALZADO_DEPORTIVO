@@ -113,7 +113,7 @@
                 figure
                   img(src="@/assets/curso/temas/tema2/9.png", alt="Imagen de la camisa ya ajustada extendida sobre una superficie, mostrando el perfil plano obtenido que servirá como base para el trazado del molde patrón.  ") 
     
-        p.mb-5 Una vez compensada la máscara, la dibujamos sobre una cartulina con los puntos y líneas guía, como se muestra en la imagen.
+        p.mb-5 Una vez compensada la máscara, la dibujamos sobre una cartulina con los puntos y líneas guía, como se ilustra en la siguiente figura.
 
         .row.justify-content-center.align-items-center
           .col-lg-10

@@ -55,7 +55,7 @@
                     img(src="@/assets/curso/temas/tema1/3.png", data-aos="zoom-in")
                 .col-lg-5.order-1.mb-3.mb-lg-0
                   img.mb-3(src="@/assets/curso/temas/tema1/4.svg", style="max-width: 90px")
-                  p.mb-0 Se obtienen colocando el borde de la horma por la línea de plantilla sobre una superficie recta de forma perpendicular, de tal manera que la parte posterior de la horma toque esta superficie. El otro punto de contacto sobre la superficie o punto tangencial será nuestro punto metatarsiano; esto se realiza en las dos caras de la horma, como lo indica la siguiente imagen.
+                  p.mb-0 Se obtienen colocando el borde de la horma por la línea de plantilla sobre una superficie recta de forma perpendicular, de tal manera que la parte posterior de la horma toque esta superficie. El otro punto de contacto sobre la superficie o punto tangencial será nuestro punto metatarsiano; esto se realiza en las dos caras de la horma, como se ilustra en la siguiente figura.
 
         .row.justify-content-center.mb-5
           .col-lg-5.mb-3.mb-lg-0
@@ -85,7 +85,7 @@
                 img(src="@/assets/curso/temas/tema1/7.png", alt="Fotografía lateral de una horma con cinta métrica que une los puntos metatarsianos interno y externo, mostrando el trazo recto de la línea metatarsiana sobre la superficie del calzado. ")
             .col-lg-6.order-lg-1
               h5 Línea metatarsiana
-              p Para trazar esta línea, se utiliza una cinta métrica de manera que una los puntos metatarsianos interno y externo. Luego, se marca con el portaminas, tal como se ilustra en la siguiente imagen.
+              p Para trazar esta línea, se utiliza una cinta métrica de manera que una los puntos metatarsianos interno y externo. Luego, se marca con el portaminas, como se ilustra en la siguiente figura.
     
           .row.align-items-center.p-4.p-md-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
@@ -96,7 +96,7 @@
                 img(src="@/assets/curso/temas/tema1/8.png", alt="Vista lateral de una horma con marca circular en la zona central del empeine, donde se cruzan el eje del empeine y la línea metatarsiana. ")
             .col-lg-6.order-lg-1
               h5 Punto de calzada
-              p Se obtiene en la intersección entre el eje del empeine y la línea metatarsiana, tal como se aprecia en la imagen.
+              p Se obtiene en la intersección entre el eje del empeine y la línea metatarsiana, como se ilustra en la siguiente figura.
           .row.align-items-center.p-4.p-md-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               .titulo-sexto.color-acento-contenido
@@ -106,7 +106,7 @@
                 img(src="@/assets/curso/temas/tema1/9.png", alt="Dos imágenes comparativas de una horma, una del lado externo y otra del lado interno, con marcas que indican la ubicación del punto de atraque a lo largo de la línea metatarsiana. ")
             .col-lg-6.order-lg-1
               h5 Punto de atraque
-              p Este punto se localiza a la mitad de la distancia entre el punto de calzada y la línea de plantilla, siguiendo la trayectoria de la línea metatarsiana. Se determina tanto en el lado interno como en el externo, tal como se ilustra en la siguiente imagen.
+              p Este punto se localiza a la mitad de la distancia entre el punto de calzada y la línea de plantilla, siguiendo la trayectoria de la línea metatarsiana. Se determina tanto en el lado interno como en el externo, como se ilustra en la siguiente figura.
           .row.align-items-center.p-4.p-md-5
             .col-lg-6.mb-3.mb-lg-0.order-lg-2
               .titulo-sexto.color-acento-contenido
@@ -133,7 +133,7 @@
                 li.mb-0.d-flex
                   i.fas.fa-check-circle.bg-color-6
                   p.mb-0 Horma N.º 40 + 18 mm = 58 mm (altura del talón para mujer)
-              p Este procedimiento se representa en la siguiente imagen.
+              p Como se ilustra en la siguiente imagen.
     
     p.mb-5 A continuación,  se detallan las líneas y puntos adicionales que permiten completar el trazado del contorno sobre la horma. Estas referencias son esenciales para definir la forma del corte y garantizar un ajuste preciso del calzado.
 
@@ -142,7 +142,7 @@
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0
             h4 Línea de profundidad
-            p Se obtiene uniendo con la cinta métrica el punto de altura del talón con el punto de atraque. Una vez alineados, se marca la línea, tal como se indica en la imagen.
+            p Se obtiene uniendo con la cinta métrica el punto de altura del talón con el punto de atraque. Una vez alineados, se marca la línea, como se ilustra en la siguiente imagen.
         
           .col-md-5
             .titulo-sexto.color-acento-contenido
@@ -170,7 +170,7 @@
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-6
                 p.mb-0 Horma N.º 40 + 28 mm = 68 mm
-            p Este procedimiento se representa en la siguiente imagen.
+            p Como se ilustra en la siguiente imagen.
           .col-md-5
             .titulo-sexto.color-acento-contenido
               h5 Figura 8.
@@ -181,7 +181,7 @@
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0
             h4 Línea de entrada
-            p Se traza colocando el metro en escuadra a 90 grados justo debajo del punto de entrada y dejándolo caer libremente sobre la horma hasta alcanzar la línea de plantilla, en ambos lados de la horma. Este procedimiento se representa en la siguiente imagen.
+            p Se traza colocando el metro en escuadra a 90 grados justo debajo del punto de entrada y dejándolo caer libremente sobre la horma hasta alcanzar la línea de plantilla, en ambos lados de la horma. Como se ilustra en la siguiente imagen.
             
           .col-md-5
             .titulo-sexto.color-acento-contenido
@@ -193,7 +193,7 @@
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0
             h4 Línea de tobillo
-            p Se obtiene colocando la cinta métrica a partir del punto de entrada  hasta  la parte inferior de la línea del talón, luego se dibuja como lo indica la siguiente imagen en ambas caras de la horma.
+            p Se obtiene colocando la cinta métrica a partir del punto de entrada  hasta  la parte inferior de la línea del talón, luego se dibuja como se ilustra en la siguiente figura en ambas caras de la horma.
           .col-md-5
             .titulo-sexto.color-acento-contenido
               h5 Figura 10.
@@ -204,7 +204,7 @@
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0
             h4 Línea de chapeta o vena
-            p Esta línea se dibuja marcando el quiebre o filo de la parte delantera de la horma (capellada), como se muestra en la imagen.
+            p Esta línea se dibuja marcando el quiebre o filo de la parte delantera de la horma (capellada), como se ilustra en la siguiente figura.
           .col-md-5
             .titulo-sexto.color-acento-contenido
               h5 Figura 11.

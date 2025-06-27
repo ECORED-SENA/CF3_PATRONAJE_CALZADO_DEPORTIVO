@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Este modelo guarda similitud con el tipo Court; sin embargo, su principal diferencia radica en que la capellada está seccionada en la zona de la puntera. Además, el diseño del talón puede presentar variaciones según los requerimientos estéticos y funcionales del modelo a desarrollar.
+        p.mb-0 Este modelo guarda similitud con el tipo<em>Court</em>; sin embargo, su principal diferencia radica en que la capellada está seccionada en la zona de la puntera. Además, el diseño del talón puede presentar variaciones según los requerimientos estéticos y funcionales del modelo a desarrollar.
     
     separador
 
