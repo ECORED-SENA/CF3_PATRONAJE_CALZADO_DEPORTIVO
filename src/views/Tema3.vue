@@ -62,7 +62,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido
       h2 3.2 Variaciones del modelo deportivo
             
-    p.mb-5 El calzado deportivo se ha diversificado para ajustarse a las exigencias específicas de cada disciplina, tipo de terreno y usuario. A continuación, se presenta una tabla comparativa con las principales categorías:
+    p.mb-5 El calzado deportivo se ha diversificado para ajustarse a las exigencias específicas de cada disciplina, tipo de terreno y usuario. A continuación, se presenta un video con las principales categorías:
 
     figure.mb-5
       .video
