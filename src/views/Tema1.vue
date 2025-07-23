@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Líneas y puntos básicos para el desarrollo del patronaje
@@ -25,7 +25,7 @@
             figure
               img(src="@/assets/curso/temas/tema1/2.png", data-aos="zoom-in")
           .col-lg-8
-            p(data-aos="fade-left") A partir de la trepa, se procede a la elaboración del molde patrón, que actúa como referencia principal para la fabricación del calzado, asegurando medidas y proporciones adecuadas. Finalmente, se profundiza en la elaboración de moldes específicos para los modelos tipo y Oxford, incluyendo el despiece, referenciado y comprobación de los moldes, un proceso crucial para identificar y organizar las piezas necesarias para el ensamble del calzado.
+            p(data-aos="fade-left") A partir de la trepa, se procede a la elaboración del molde patrón, que actúa como referencia principal para la fabricación del calzado, asegurando medidas y proporciones adecuadas. Finalmente, se profundiza en la elaboración de moldes específicos para los modelos tipo deportivo, incluyendo el despiece, referenciado y comprobación de los moldes, un proceso crucial para identificar y organizar las piezas necesarias para el ensamble del calzado.
         
             .bg-color-1.tarjeta.p-4.mb-3(data-aos="fade-left")
               .row.align-items-start

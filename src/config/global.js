@@ -102,22 +102,22 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Elaborar moldes para el modelo tipo Royal',
+        titulo: 'Elaborar moldes para el modelo tipo <i>Royal</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '6.1',
-            titulo: 'Elaborar molde patrón para el modelo tipo Royal',
+            titulo: 'Elaborar molde patrón para el modelo tipo <i>Royal</i>',
             hash: 't_6_1',
           },
           {
             numero: '6.2',
-            titulo: 'Despiece de moldes para el modelo tipo Royal',
+            titulo: 'Despiece de moldes para el modelo tipo <i>Royal</i>',
             hash: 't_6_2',
           },
           {
             numero: '6.3',
-            titulo: 'Moldes forro para el modelo tipo Royal',
+            titulo: 'Moldes forro para el modelo tipo <i>Royal</i>',
             hash: 't_6_3',
           },
         ],

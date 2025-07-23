@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
       h1 Tipología calzado deportivo y sus variaciones
@@ -47,7 +47,7 @@
               .col-lg-8
                 div.bg-color-2.p-4.tarjeta(data-aos="fade-left")
                   img(src="@/assets/curso/temas/tema3/4.svg", style="max-width: 90px")
-                  p.mb-0 Durante el siglo XX, especialmente tras la Primera Guerra Mundial, el deporte se masificó como actividad recreativa y competitiva. Esto impulsó el desarrollo de marcas como Converse (1917), con su modelo All Star para baloncesto, y Adidas y Puma, fundadas en Alemania entre los años 1920 y 1940, que introdujeron importantes innovaciones en diversas disciplinas.
+                  p.mb-0 Durante el siglo XX, especialmente tras la Primera Guerra Mundial, el deporte se masificó como actividad recreativa y competitiva. Esto impulsó el desarrollo de marcas como Converse (1917), con su modelo All Star para baloncesto, y #[i Adidas] y #[i Puma], fundadas en Alemania entre los años 1920 y 1940, que introdujeron importantes innovaciones en diversas disciplinas.
 
         .row.justify-content-center 
           .col-lg-10
@@ -62,7 +62,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido
       h2 3.2 Variaciones del modelo deportivo
             
-    p.mb-5 El calzado deportivo se ha diversificado para ajustarse a las exigencias específicas de cada disciplina, tipo de terreno y usuario. A continuación, se presenta un video con las principales categorías:
+    p.mb-5 El calzado deportivo se ha diversificado para ajustarse a las exigencias específicas de cada disciplina, tipo de terreno y usuario.  A continuación, se presenta un video con las principales categorías:
 
     figure.mb-5
       .video
@@ -96,7 +96,7 @@
             figure
               img(src="@/assets/curso/temas/tema3/8.png", data-aos="zoom-in")
           .col-lg-8.order-1.mb-3.mb-lg-0
-            p(data-aos="fade-left") El término court hace referencia a las canchas deportivas donde se practicaban disciplinas como tenis, squash y baloncesto. Las primeras zapatillas court surgieron en las décadas de 1920-1930. Estaban confeccionadas en lona con suelas de goma, diseñadas para evitar daños en las superficies de juego.
+            p(data-aos="fade-left") El término #[i court] hace referencia a las canchas deportivas donde se practicaban disciplinas como tenis, #[i squash] y baloncesto. Las primeras zapatillas #[i court] surgieron en las décadas de 1920-1930. Estaban confeccionadas en lona con suelas de goma, diseñadas para evitar daños en las superficies de juego.
 
             .row
               .col-lg-4.mb-3.mb-lg-0
@@ -105,12 +105,12 @@
               .col-lg-8
                 div.bg-color-8.p-5.tarjeta(data-aos="fade-left")
                   img.mb-3.d-none.d-lg-flex(src="@/assets/curso/temas/tema3/13.svg", style="max-width: 90px")
-                  p.mb-0 En las décadas de 1960 y 1970, marcas como Adidas introdujeron modelos como las <b><em>Stan Smith</em></b>, fabricadas en cuero blanco, que mejoraron tanto en durabilidad como en estética. Con el paso del tiempo, este tipo de zapatilla trascendió su uso deportivo para convertirse en un <b>ícono de la moda urbana</b>, manteniendo su diseño sobrio y minimalista.
+                  p.mb-0 En las décadas de 1960 y 1970, marcas como #[i Adidas] introdujeron modelos como las <b><em>Stan Smith</em></b>, fabricadas en cuero blanco, que mejoraron tanto en durabilidad como en estética. Con el paso del tiempo, este tipo de zapatilla trascendió su uso deportivo para convertirse en un <b>ícono de la moda urbana</b>, manteniendo su diseño sobrio y minimalista.
         
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-            h3.titulo-con-imagen__texto Zapatillas deportivas tipo Royal
+            h3.titulo-con-imagen__texto Zapatillas deportivas tipo #[i Royal]
 
         .row.mb-5
           .col-lg-3.order-2
@@ -119,7 +119,7 @@
           .col-lg-9.order-1.mb-3.mb-lg-0
             div.bg-color-2.p-5.tarjeta(data-aos="fade-left")
               img.mb-2(src="@/assets/curso/temas/tema3/9.svg", style="max-width: 90px")
-              p.mb-0 Lanzadas por Reebok, las zapatillas Royal nacieron como calzado para actividades físicas ligeras. Con el tiempo, su estética retro y su comodidad las posicionaron como una opción habitual en el calzado urbano.
+              p.mb-0 Lanzadas por #[i Reebok], las zapatillas #[i Royal] nacieron como calzado para actividades físicas ligeras. Con el tiempo, su estética retro y su comodidad las posicionaron como una opción habitual en el calzado urbano.
         
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
@@ -131,7 +131,7 @@
             figure
               img(src="@/assets/curso/temas/tema3/12.png", data-aos="zoom-in")
           .col-lg-9.order-1.mb-3.mb-lg-0
-            p.mb-5 Las zapatillas de <em>running</em> han evolucionado notablemente desde finales del siglo XIX. Los primeros modelos eran básicos y ligeros, con poca protección. Fue en las décadas de 1960 y 1970 cuando el <em>running</em> se popularizó como actividad recreativa, impulsando a marcas como <b>Nike y Adidas</b> a desarrollar tecnologías como la <b>amortiguación de aire</b> y suelas más ergonómicas.
+            p.mb-5 Las zapatillas de <em>running</em> han evolucionado notablemente desde finales del siglo XIX. Los primeros modelos eran básicos y ligeros, con poca protección. Fue en las décadas de 1960 y 1970 cuando el <em>running</em> se popularizó como actividad recreativa, impulsando a marcas como <b><i>Nike y Adidas</i></b> a desarrollar tecnologías como la <b>amortiguación de aire</b> y suelas más ergonómicas.
             .bg-color-4.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
                 .col-lg-auto.mb-3.mb-lg-0
@@ -139,7 +139,7 @@
                     img(src='@/assets/curso/temas/tema3/11.png', alt='')
                 .col-lg
                   .p-4
-                    p.mb-0(data-aos="fade-up") El <b>Nike Cortez (1972)</b> fue uno de los pioneros. En los años 80 y 90 se introdujeron sistemas avanzados como <b>Nike <em>Air</em> y Asics <em>GEL</em></b>, y se empezó a diferenciar el calzado según el tipo de pisada. Hoy en día, las zapatillas de <em>running</em> integran materiales ultraligeros, espumas de alto retorno de energía (<em>Boost, ZoomX</em>), suelas de carbono y diseños específicos para diferentes terrenos.
+                    p.mb-0(data-aos="fade-up") El <b>Nike Cortez (1972)</b> fue uno de los pioneros. En los años 80 y 90 se introdujeron sistemas avanzados como <b><em>Nike Air</em> y <em>Asics GEL</em></b>, y se empezó a diferenciar el calzado según el tipo de pisada. Hoy en día, las zapatillas de <em>running</em> integran materiales ultraligeros, espumas de alto retorno de energía (<em>Boost, ZoomX</em>), suelas de carbono y diseños específicos para diferentes terrenos.
 
 
 </template>

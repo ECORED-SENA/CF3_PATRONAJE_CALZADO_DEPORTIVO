@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 5
       h1 Elaborar moldes para el modelo deportivo tipo <em>Court</em>
@@ -301,7 +301,7 @@
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
             h3.titulo-con-imagen__texto Despiece del lateral
         
-        p.mb-5 A continuación, se obtiene la pieza del lateral trasero, cuya función es ensamblar tanto la cordonera como el talón. Por este motivo, se agregan márgenes de 10 mm en la zona del talón y 8 mm en la cordonera, donde se unirán estas piezas. Asimismo, se adiciona una ventaja de 4 mm en la parte superior (zona de la boca del calzado) para permitir el cosido y volteado.
+        p.mb-5 A continuación, se obtiene la pieza del lateral trasero, cuya función es ensamblar tanto la cordonera como el talón. Por este motivo, se agregan márgenes de 10 mm en la zona del talón y 8 mm en la cordonera, donde se unirán estas piezas. Así mismo, se adiciona una ventaja de 4 mm en la parte superior (zona de la boca del calzado) para permitir el cosido y volteado.
         .row.justify-content-center.mb-5
           .col-lg-10
             .titulo-sexto.color-acento-contenido
