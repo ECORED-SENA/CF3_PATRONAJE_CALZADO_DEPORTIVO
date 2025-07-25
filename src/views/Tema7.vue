@@ -199,7 +199,7 @@
               figure
                 img(src="@/assets/curso/temas/tema7/16.png", alt="Segmento de la cordonera marcado hasta la curva, previo al giro del molde, con líneas guía que definen el contorno base.  ", data-aos="zoom-in")
     
-    .row.justify-content-center.mb-3
+    .row.justify-content-center.mb-5
       .col-lg-10
         div.bg-color-1.p-4
           p.mb-0 A continuación, se identifica un punto de apoyo en el centro de las líneas marcadas en la curva, desde donde se realiza el giro de la pieza. Se rota la cordonera hasta que su parte superior quede aproximadamente 5 mm hacia el interior del eje central. Finalmente, se agrega una ventaja de 4 mm para el cosido y vuelto, comenzando desde un punto medio entre el segundo y tercer ojalete.

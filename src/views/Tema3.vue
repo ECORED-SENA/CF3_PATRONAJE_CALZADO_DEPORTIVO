@@ -87,7 +87,7 @@
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-        h3.titulo-con-imagen__texto Zapatillas deportivas tipo<em>Court</em>
+        h3.titulo-con-imagen__texto Zapatillas deportivas tipo <em>Court</em>
     
     .bg-full-width-2.bg-fondo-3.mb-3
       .px-4.px-md-5.py-4
